@@ -1,13 +1,14 @@
 # Geritch-Restau-CRA
-## 🖼️ Screenshots
 
-### 🏠 Home
+
+## 🖼️ Screenshots
+###  Home
 ![Home](./public/Geritch-Home-02.png)
 
-### 🛒 Product List
-![About](./public/Geritch-Home-03.png)
+###  About
+![About](./public/Geritch-Home-02.png)
 
-### 🔍 Product Details
+###  Premium Design
 ![Premium Design](./public/Geritch-Home-03.png)
 
 ---
