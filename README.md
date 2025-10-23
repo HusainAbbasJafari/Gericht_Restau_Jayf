@@ -1,5 +1,16 @@
-# Getting Started with Create React App
+# Geritch-Restau-CRA
+## 🖼️ Screenshots
 
+### 🏠 Home
+![Home](./public/Geritch-Home-02.png)
+
+### 🛒 Product List
+![About](./public/Geritch-Home-03.png)
+
+### 🔍 Product Details
+![Premium Design](./public/Geritch-Home-03.png)
+
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
