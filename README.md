@@ -3,7 +3,7 @@
 
 ## 🖼️ Screenshots
 ###  Home
-![Home](./public/Geritch-Home-02.png)
+![Home](./public/Geritch-Home-01.png)
 
 ###  About
 ![About](./public/Geritch-Home-02.png)
