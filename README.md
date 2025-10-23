@@ -1,5 +1,7 @@
-# Geritch-Restau-CRA
 
+# 🛍️ Geritch-Restau
+
+🔗 **Live Demo:** [https://gericht-by-jayf.netlify.app/](https://gericht-by-jayf.netlify.app/)
 
 ## 🖼️ Screenshots
 ###  Home
